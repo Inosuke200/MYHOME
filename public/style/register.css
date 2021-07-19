@@ -1,0 +1,10 @@
+body{
+    background: url('../images/case.png') no-repeat 50% 50% ;
+    height: 500px;
+}
+.textes{
+    font-size: 25px;
+    font-weight:bold;
+}
+
+
